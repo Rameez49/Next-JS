@@ -11,7 +11,7 @@ export default function Home() {
                 <i className="fab fa-staylinked"></i>kill
             </a>
             <div className="nav-links" id="navLinks">
-                {/* <!-- Reposnive bar open and close --> */}
+                {/* <!-- Reposnive bar open and close  --> */}
                 <i className="fa fa-times" ></i>
                 <ul>
                     <li><a href="/">Home</a></li>
