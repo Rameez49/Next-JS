@@ -4,3 +4,8 @@ export interface navtype {
     nav3: string;
     nav4?: string;
   }
+
+  export interface buttonType{
+    title: string;
+  }
+  

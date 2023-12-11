@@ -1,9 +1,7 @@
 import { navtype } from '@/utils/types/navTypes'
 import React from 'react'
 
-
-
-export function Navbar(props:navtype) {
+export default function Navbar(props:navtype) {
   return (
     <main>
     <nav>
